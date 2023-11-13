@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lino\\Projetos_Programação\\arquivos_Org\\arquivos_Org.csproj": {}
+    "C:\\Users\\lino\\Projetos_Programação\\arquivos-org\\arquivos_Org.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lino\\Projetos_Programação\\arquivos_Org\\arquivos_Org.csproj": {
+    "C:\\Users\\lino\\Projetos_Programação\\arquivos-org\\arquivos_Org.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lino\\Projetos_Programação\\arquivos_Org\\arquivos_Org.csproj",
+        "projectUniqueName": "C:\\Users\\lino\\Projetos_Programação\\arquivos-org\\arquivos_Org.csproj",
         "projectName": "arquivos_Org",
-        "projectPath": "C:\\Users\\lino\\Projetos_Programação\\arquivos_Org\\arquivos_Org.csproj",
+        "projectPath": "C:\\Users\\lino\\Projetos_Programação\\arquivos-org\\arquivos_Org.csproj",
         "packagesPath": "C:\\Users\\lino\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lino\\Projetos_Programação\\arquivos_Org\\obj\\",
+        "outputPath": "C:\\Users\\lino\\Projetos_Programação\\arquivos-org\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lino\\AppData\\Roaming\\NuGet\\NuGet.Config"
